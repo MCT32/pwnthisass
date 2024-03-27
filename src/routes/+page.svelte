@@ -1,2 +1,2 @@
-<h1>Hey Maddie</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Hey Maddie <3 </h1>
+<p>This website does FUCK all right now, but that's soon to change.</p>
